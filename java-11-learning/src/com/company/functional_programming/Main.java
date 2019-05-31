@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/*
+    To learn more about lambda expression see here: https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+ */
+
 public class Main {
     public static void main(String[] args) {
         // first lambda expression
